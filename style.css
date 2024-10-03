@@ -1,0 +1,43 @@
+header {
+    background-color: blue;
+    margin: 0px;
+    padding-bottom: 20px;
+    border
+}
+body {
+    text-align: center;
+}
+#p1 {
+    text-size-adjust: 10px;
+    padding-top: 10px;
+}
+header p {
+    margin: 0px;
+    text-align: center;
+    text-size-adjust: 100px;
+
+}
+nav {
+    padding-top: 40px;
+     padding-bottom: 20px;
+}
+nav a{
+    margin-right: 20px;
+    text-decoration: none;
+        background-color: black;
+        padding: 20px;
+        border-radius: 10px;
+        color: aliceblue;
+        text-decoration: none;
+     padding-top: 20px;
+     padding-bottom: 20px;
+    }
+#IMG {
+ text-align: center;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+     
+
+
+ 
